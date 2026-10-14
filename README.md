@@ -14,7 +14,7 @@ AgriLink-Vercel-Ready/
 ├── .env.example                # Safe environment variable template
 │
 ├── frontend/                   # React 19 + TypeScript + Vite + Tailwind CSS v4
-│   ├── index.ts              # Main HTML entry
+│   ├── index.html              # Main HTML entry
 │   ├── package.json            # Frontend dependencies
 │   ├── vite.config.ts          # Vite build config
 │   ├── vercel.json             # Subdirectory SPA routing rewrites
